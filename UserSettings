@@ -1,0 +1,16 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "files.exclude": {
+        "**/.history": true
+    },
+    "editor.renderLineHighlight": "none",
+    "window.zoomLevel": 0,
+    "editor.renderIndentGuides": true,
+    "editor.multiCursorModifier": "alt",
+    "editor.snippetSuggestions": "top",
+    "editor.tabCompletion": true
+}

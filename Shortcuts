@@ -1,2 +1,15 @@
 Ctrl + Shift + C => Open Terminal
 Ctrl + ` => Open Powershell
+Ctrl + F2 => Changes Selected Content
+Ctrl + B => Close Project Tab
+Ctrl + P => Find File
+Ctrl + Tab => Emmet 
+Ctrl + Shift + K => Delete Line
+Ctrl + I => Select Line
+Ctrl + PageDown => Go To Next Editor Tab
+Shift + Alt + Down => Copy Line Down
+Ctrl + U => Undo Cursor position
+Alt + Shift + A => Comment
+Alt + Click => Multiline Cursor
+F2 => Change All Attributes With The Same Name
+Shift + Alt + F => Code Refactoring
